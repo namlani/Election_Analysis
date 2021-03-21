@@ -27,3 +27,14 @@ To audit and analyze election results for an election commision, in order to pro
   ![image](https://user-images.githubusercontent.com/5934390/111913686-a3c67180-8a45-11eb-9ad9-60859991dc70.png)
   
 ## Election-Audit Summary
+This script can be used--with some modifications--for any election by:
+* Editing the path contained in the file_to_load variable to point to the relevant election data file
+
+  ![image](https://user-images.githubusercontent.com/5934390/111913965-82b25080-8a46-11eb-8e87-a7c263474c12.png)
+
+* Editing variable names and print text to match the data in the relevant election data file (e.g., changing county to township):
+
+  ![image](https://user-images.githubusercontent.com/5934390/111914066-f48a9a00-8a46-11eb-8559-725bdda37944.png)
+  ![image](https://user-images.githubusercontent.com/5934390/111914081-010ef280-8a47-11eb-882d-6fc50e2495d9.png)
+  ![image](https://user-images.githubusercontent.com/5934390/111914018-bbeac080-8a46-11eb-98ad-e688e8a15560.png)
+  
