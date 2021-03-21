@@ -36,7 +36,7 @@ This script can be used--with some modifications--for any election by:
 
   ![image](https://user-images.githubusercontent.com/5934390/111914201-6c58c480-8a47-11eb-968f-5976eb8c1da1.png)
 
-* Editing variable names and print text to match the data in the relevant election data file (e.g., changing county to township):
+* Editing variable names (to be descriptive for the coder) and print text (to be descripted to anyone viewing the analysis results) to match the data in the relevant election data file (e.g., changing county to township):
 
   ![image](https://user-images.githubusercontent.com/5934390/111914066-f48a9a00-8a46-11eb-8559-725bdda37944.png)
   
