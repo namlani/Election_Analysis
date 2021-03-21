@@ -6,7 +6,7 @@
 To audit and analyze election results for an election commision, in order to provide them with the voter turnout for each county, the percentage of votes from each county of the total count and identify the county with the highest turnout.
 
 ## Election-Audit Results
-*How many votes were cast in this congressional election?
+* How many votes were cast in this congressional election?
 
   369,711
   
